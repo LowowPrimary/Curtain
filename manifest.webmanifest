@@ -2,7 +2,7 @@
   "name": "Curtain",
   "short_name": "Curtain",
   "description": "All your organizational needs right where you want them.",
-  "start_url": "http://localhost:8000",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#2f47a4",
