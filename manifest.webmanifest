@@ -2,8 +2,8 @@
   "name": "Curtain",
   "short_name": "Curtain",
   "description": "All your organizational needs right where you want them.",
-  "start_url": "./index.html",
-  "display": "standalone",
+  "start_url": "/",
+  "display": "fullscreen",
   "background_color": "#000000",
   "theme_color": "#2f47a4",
   "icons": [
@@ -20,6 +20,6 @@
   ],
   "orientation": "portrait",
   "lang": "en-US",
-  "prefer_related_applications": false,
+  "prefer_related_applications": true,
   "related_applications": []
 }
