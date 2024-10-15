@@ -1,0 +1,17 @@
+{
+    "name": "Curtain",
+    "description": "All your organizational needs right where you want them.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "##2f47a4",
+    
+    "icons": [
+      {
+        "src": "./Assets/Curtain.svg",
+        "sizes": "48x48",
+        "type": "image/svg+xml",
+        "purpose": "maskable"
+      }
+    ]
+}
