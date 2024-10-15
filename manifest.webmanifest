@@ -2,11 +2,11 @@
   "name": "Curtain",
   "short_name": "Curtain",
   "description": "All your organizational needs right where you want them.",
-  "start_url": "/index.html",
+  "start_url": "http://localhost:8000",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#2f47a4",
-"icons": [
+  "icons": [
     {
       "src": "https://lowowprimary.github.io/Curtain/Curtain192.png",
       "sizes": "192x192",
